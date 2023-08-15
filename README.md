@@ -8,6 +8,6 @@ Este repositório contém um projeto de modo escuro para que os alunos do 2º an
 
 
 ## A troca deve ser controlada usando as seguintes técnicas:
-1. **querySelector():** Esta propriedade do Document objeto retorna o elemento raiz do documento. Por exemplo, a documentElement propriedade de um documento HTML sempre retornará o <html> elemento.
+1. **documentElement:** Esta propriedade do Document objeto retorna o elemento raiz do documento. Por exemplo, a documentElement propriedade de um documento HTML sempre retornará o <html> elemento.
 2. **addEventListener():** Este método é usado para adicionar um ouvinte de evento a um elemento. No caso deste projeto, é usado para adicionar um ouvinte de evento click do botão "mode dark".
 3. **classList.toggle():** Este método é usado para alternar o estado uma classe de um elemento. No caso deste projeto, é usado para ativar ou desativar a classe light da lista de classes.
