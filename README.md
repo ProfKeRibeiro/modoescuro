@@ -1,7 +1,7 @@
 # Modo escuro!
 
 <p align="center">
-  <img src="https://github.com/ProfKeRibeiro/modoescuro/assets/133296861/5b3a6996-c365-4606-9589-bf44598feda9" width=300px/>
+  <img src="https://github.com/ProfKeRibeiro/modoescuro/assets/133296861/f8618205-9765-4fcf-93e0-eb7f38c556d6" width=300px/>
 </p>
 
 Este repositório contém um projeto de modo escuro para que os alunos do 2º ano do ensino médio com habilitação profissional de **TÉCNICO EM INFORMÁTICA PARA INTERNET** possam desenvolver a lógica da troca da classe do projeto em **JavaScript puro**.
